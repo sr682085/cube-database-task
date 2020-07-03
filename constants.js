@@ -3,8 +3,8 @@ const SORTING_ORDER = {
   ASC: 1
 }
 
-const DONOR_DATASET_FILE = './dataset/Donors.csv'
-const DONATION_DATASET_FILE = './dataset/Donations.csv'
+const DONOR_DATASET_FILE = './dataset/Donor-trimmed.csv'
+const DONATION_DATASET_FILE = './dataset/Donation-trimmed.csv'
 
 const STATE_HEADING = 'State'
 const DONATION_HEADING = 'Donation (In $)'
