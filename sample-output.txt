@@ -1,0 +1,143 @@
+Donations Pre-Processing Start ...
+100000 Donation Records Processed | Time Elapsed: 771 milliseconds
+200000 Donation Records Processed | Time Elapsed: 1141 milliseconds
+300000 Donation Records Processed | Time Elapsed: 1550 milliseconds
+400000 Donation Records Processed | Time Elapsed: 1899 milliseconds
+500000 Donation Records Processed | Time Elapsed: 2264 milliseconds
+600000 Donation Records Processed | Time Elapsed: 2716 milliseconds
+700000 Donation Records Processed | Time Elapsed: 3056 milliseconds
+800000 Donation Records Processed | Time Elapsed: 3409 milliseconds
+900000 Donation Records Processed | Time Elapsed: 3751 milliseconds
+1000000 Donation Records Processed | Time Elapsed: 4092 milliseconds
+1100000 Donation Records Processed | Time Elapsed: 4456 milliseconds
+1200000 Donation Records Processed | Time Elapsed: 4838 milliseconds
+1300000 Donation Records Processed | Time Elapsed: 5273 milliseconds
+1400000 Donation Records Processed | Time Elapsed: 5767 milliseconds
+1500000 Donation Records Processed | Time Elapsed: 6110 milliseconds
+1600000 Donation Records Processed | Time Elapsed: 6474 milliseconds
+1700000 Donation Records Processed | Time Elapsed: 6815 milliseconds
+1800000 Donation Records Processed | Time Elapsed: 7165 milliseconds
+1900000 Donation Records Processed | Time Elapsed: 7516 milliseconds
+2000000 Donation Records Processed | Time Elapsed: 7859 milliseconds
+2100000 Donation Records Processed | Time Elapsed: 8212 milliseconds
+2200000 Donation Records Processed | Time Elapsed: 8570 milliseconds
+2300000 Donation Records Processed | Time Elapsed: 8938 milliseconds
+2400000 Donation Records Processed | Time Elapsed: 9283 milliseconds
+2500000 Donation Records Processed | Time Elapsed: 9662 milliseconds
+2600000 Donation Records Processed | Time Elapsed: 10015 milliseconds
+2700000 Donation Records Processed | Time Elapsed: 10364 milliseconds
+2800000 Donation Records Processed | Time Elapsed: 10702 milliseconds
+2900000 Donation Records Processed | Time Elapsed: 11068 milliseconds
+3000000 Donation Records Processed | Time Elapsed: 11439 milliseconds
+3100000 Donation Records Processed | Time Elapsed: 12372 milliseconds
+3200000 Donation Records Processed | Time Elapsed: 12727 milliseconds
+3300000 Donation Records Processed | Time Elapsed: 13084 milliseconds
+3400000 Donation Records Processed | Time Elapsed: 13447 milliseconds
+3500000 Donation Records Processed | Time Elapsed: 13800 milliseconds
+3600000 Donation Records Processed | Time Elapsed: 14158 milliseconds
+3700000 Donation Records Processed | Time Elapsed: 14578 milliseconds
+3800000 Donation Records Processed | Time Elapsed: 14943 milliseconds
+3900000 Donation Records Processed | Time Elapsed: 15293 milliseconds
+4000000 Donation Records Processed | Time Elapsed: 15668 milliseconds
+4100000 Donation Records Processed | Time Elapsed: 16014 milliseconds
+4200000 Donation Records Processed | Time Elapsed: 16362 milliseconds
+4300000 Donation Records Processed | Time Elapsed: 16717 milliseconds
+4400000 Donation Records Processed | Time Elapsed: 17071 milliseconds
+4500000 Donation Records Processed | Time Elapsed: 17433 milliseconds
+4600000 Donation Records Processed | Time Elapsed: 17788 milliseconds
+4700000 Donation Records Processed | Time Elapsed: 18133 milliseconds
+4800000 Donation Records Processed | Time Elapsed: 18527 milliseconds
+===========
+Donations Pre-Processing Complete!
+Donation Processing Time: 18715 milliseconds | Donors Found: 2018773
+===========
+
+Calculating state-wise donations ...
+100000 Donor Records Processed | Time Elapsed: 329 milliseconds
+200000 Donor Records Processed | Time Elapsed: 618 milliseconds
+300000 Donor Records Processed | Time Elapsed: 917 milliseconds
+400000 Donor Records Processed | Time Elapsed: 1207 milliseconds
+500000 Donor Records Processed | Time Elapsed: 1495 milliseconds
+600000 Donor Records Processed | Time Elapsed: 1794 milliseconds
+700000 Donor Records Processed | Time Elapsed: 2075 milliseconds
+800000 Donor Records Processed | Time Elapsed: 2377 milliseconds
+900000 Donor Records Processed | Time Elapsed: 2663 milliseconds
+1000000 Donor Records Processed | Time Elapsed: 2998 milliseconds
+1100000 Donor Records Processed | Time Elapsed: 3295 milliseconds
+1200000 Donor Records Processed | Time Elapsed: 3580 milliseconds
+1300000 Donor Records Processed | Time Elapsed: 3910 milliseconds
+1400000 Donor Records Processed | Time Elapsed: 4196 milliseconds
+1500000 Donor Records Processed | Time Elapsed: 4482 milliseconds
+1600000 Donor Records Processed | Time Elapsed: 4923 milliseconds
+1700000 Donor Records Processed | Time Elapsed: 5295 milliseconds
+1800000 Donor Records Processed | Time Elapsed: 5593 milliseconds
+1900000 Donor Records Processed | Time Elapsed: 5920 milliseconds
+2000000 Donor Records Processed | Time Elapsed: 6224 milliseconds
+2100000 Donor Records Processed | Time Elapsed: 6525 milliseconds
+===========
+State wise donations calculated!
+Donor Processing Time: 6605 milliseconds | Total States Donated: 52
+===========
+
+Donations collected(State-wise Tally)
+┌─────────┬────────────────────────┬─────────────────┐
+│ (index) │         State          │ Donation (In $) │
+├─────────┼────────────────────────┼─────────────────┤
+│    0    │      'California'      │    46377481     │
+│    1    │       'New York'       │    24447523     │
+│    2    │        'Texas'         │    17334021     │
+│    3    │       'Illinois'       │    14787329     │
+│    4    │       'Florida'        │    13545032     │
+│    5    │    'Massachusetts'     │    11140091     │
+│    6    │    'North Carolina'    │    11036868     │
+│    7    │     'Pennsylvania'     │     8687589     │
+│    8    │        'Other'         │     7959090     │
+│    9    │       'Georgia'        │     7696836     │
+│   10    │      'Washington'      │     7416982     │
+│   11    │      'New Jersey'      │     7124688     │
+│   12    │       'Virginia'       │     6820238     │
+│   13    │       'Michigan'       │     6679815     │
+│   14    │         'Ohio'         │     5601757     │
+│   15    │       'Indiana'        │     5547317     │
+│   16    │    'South Carolina'    │     5514097     │
+│   17    │       'Maryland'       │     5227479     │
+│   18    │       'Arizona'        │     5071446     │
+│   19    │       'Colorado'       │     5045621     │
+│   20    │     'Connecticut'      │     4526932     │
+│   21    │       'Oklahoma'       │     4092480     │
+│   22    │       'Missouri'       │     4018729     │
+│   23    │        'Oregon'        │     3948449     │
+│   24    │      'Wisconsin'       │     3884297     │
+│   25    │      'Tennessee'       │     3681239     │
+│   26    │      'Minnesota'       │     3592080     │
+│   27    │      'Louisiana'       │     2996791     │
+│   28    │         'Utah'         │     2749131     │
+│   29    │       'Alabama'        │     2527247     │
+│   30    │        'Nevada'        │     2335971     │
+│   31    │       'Kentucky'       │     2018078     │
+│   32    │ 'District Of Columbia' │     1805725     │
+│   33    │     'Mississippi'      │     1578415     │
+│   34    │        'Kansas'        │     1457302     │
+│   35    │       'Arkansas'       │     1425147     │
+│   36    │        'Hawaii'        │     1393239     │
+│   37    │        'Maine'         │     1361769     │
+│   38    │         'Iowa'         │     1299487     │
+│   39    │    'New Hampshire'     │     1122754     │
+│   40    │      'New Mexico'      │     1084949     │
+│   41    │        'Idaho'         │     1030159     │
+│   42    │       'Delaware'       │     910520      │
+│   43    │    'West Virginia'     │     809780      │
+│   44    │     'Rhode Island'     │     799299      │
+│   45    │       'Montana'        │     684368      │
+│   46    │       'Nebraska'       │     668722      │
+│   47    │        'Alaska'        │     666511      │
+│   48    │     'South Dakota'     │     477042      │
+│   49    │       'Vermont'        │     383676      │
+│   50    │     'North Dakota'     │     349445      │
+│   51    │       'Wyoming'        │     231404      │
+└─────────┴────────────────────────┴─────────────────┘
+
+===========
+Total Processing Time: 26199 milliseconds
+Total Donations: 282972437 $
+===========
